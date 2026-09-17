@@ -1,0 +1,21 @@
+Review,Sentiment
+"I absolutely loved this product, it was amazing!",positive
+"The service was excellent and very friendly.",positive
+"This movie was fantastic and enjoyable.",positive
+"I am very happy with my purchase.",positive
+"The product works perfectly.",positive
+"Great experience, I would definitely recommend it.",positive
+"I really enjoyed using this application.",positive
+"The quality is excellent.",positive
+"This was a wonderful experience.",positive
+"I love this product.",positive
+"I hated this product, it was terrible.",negative
+"The service was awful and disappointing.",negative
+"This movie was boring and terrible.",negative
+"I am very unhappy with my purchase.",negative
+"The product stopped working immediately.",negative
+"Very bad experience, I would not recommend it.",negative
+"I regret buying this product.",negative
+"The quality is extremely poor.",negative
+"This was a horrible experience.",negative
+"I don't like this product at all.",negative
